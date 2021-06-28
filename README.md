@@ -3,8 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=hritamdutta18&label=Profile%20views&color=0e75b6&style=flat" alt="hritamdutta18"/>
 </p>
   
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-  
 ## I'm a Computer Science & Engineering Student at VIT Vellore  
 
 - 👨‍💻 I’m primarily a Front-End Web Developer.
@@ -14,8 +12,9 @@
 - 👯 I’m looking to collaborate on different Web Dev Projects !!
 - 😄 Pronouns: He/Him
 
-<hr>
-
+<hr> 
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  
 ### 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -35,7 +34,7 @@
 
 <hr>
 
-<i><h3 align="center">GitHub Stonks</h3></i><br>
+<i><h3 align="center">🐱 GitHub Stonks</h3></i><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hritamdutta18&count_private=true&theme=gotham&show_icons=true" alt="hritamdutta18"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritamdutta18&show_icons=true&locale=en&layout=compact&theme=gotham" alt="hritamdutta18"/><br><br>
