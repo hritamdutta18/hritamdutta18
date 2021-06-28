@@ -2,22 +2,19 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hritamdutta18&label=Profile%20views&color=0e75b6&style=flat" alt="hritamdutta18"/>
 </p>
+  
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  
+## I'm a Computer Science & Engineering Student at VIT Vellore  
 
-<!--
-**hritamdutta18/hritamdutta18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I’m primarily a Front-End Web Developer.
+- 📚 I’m currently learning everything about Backend technologies 😅
+- 💪🏼 Future Goals: Becoming a Full Stack MERN Developer 😄
+- ⚡ Hobbies: I love playing badminton & FIFA.
+- 👯 I’m looking to collaborate on different Web Dev Projects !!
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<hr>
 
 ### 🛠 &nbsp;Tech Stack
 
