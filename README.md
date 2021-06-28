@@ -34,7 +34,7 @@
 
 <hr>
 
-<i><h3 align="center">🐱 GitHub Stonks</h3></i><br>
+<i><h3 align="center">📈 GitHub Stonks 📈</h3></i><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hritamdutta18&count_private=true&theme=gotham&show_icons=true" alt="hritamdutta18"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritamdutta18&show_icons=true&locale=en&layout=compact&theme=gotham" alt="hritamdutta18"/><br><br>
