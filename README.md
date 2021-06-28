@@ -3,20 +3,19 @@
   <img src="https://komarev.com/ghpvc/?username=hritamdutta18&label=Profile%20Views&color=0e75b6" alt="hritamdutta18"/>
 </p>
   
-## I'm a Computer Science & Engineering Student at VIT Vellore  
+## I'm a CSE-IoT Student at VIT Vellore.  
 
 - 👨‍💻 I’m primarily a Front-End Web Developer.
 - 📚 I’m currently learning everything about Backend technologies 😅
 - 💪🏼 Future Goals: Becoming a Full Stack MERN Developer 😄
 - ⚡ Hobbies: I love playing badminton & FIFA.
-- 👯 I’m looking to collaborate on different Web Dev Projects !!
+- 🤝 I’m looking to collaborate on different Web Dev Projects !
 - 😄 Pronouns: He/Him
 
 <hr> 
-<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<h3>🛠 Tech Stack</h3><br>
   
-### 🛠 &nbsp;Tech Stack
-
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=A8B9CC)&nbsp;
@@ -34,9 +33,27 @@
 
 <hr>
 
-<h3 align="center">📈 GitHub Stonks 📈</h3><br>
+<h3>📈 GitHub Stonks</h3><br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hritamdutta18&count_private=true&theme=gotham&show_icons=true&include_all_commits=true" alt="hritamdutta18"/><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritamdutta18&show_icons=true&locale=en&layout=compact&theme=gotham" alt="hritamdutta18"/><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritamdutta18&theme=gotham")
+  <img src="https://github-readme-stats.vercel.app/api?username=hritamdutta18&count_private=true&theme=gotham&show_icons=true&include_all_commits=true" alt="hritamdutta18"/><br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritamdutta18&theme=gotham">
+</p>
+
+<hr>
+  
+<h3>🤳 Connect With Me</h3><br>
+<p align="center">
+  <a href="https://linkedin.com/in/hritam-dutta-6713581b6" target="_blank_">
+    <img src="https://img.shields.io/badge/-Hritam%20Dutta-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hritamloyola10@gmail.com" target="_blank_">
+    <img src="https://img.shields.io/badge/-hritamloyola10@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_hritam_dutta_" target="_blank_">
+    <img src="https://img.shields.io/badge/-_hritam_dutta_-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/dutta_h11" target="_blank_">
+    <img src="https://img.shields.io/badge/-@dutta_h11-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
+  </a>
 </p>
