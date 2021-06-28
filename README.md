@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there 👋, I am Hritam Dutta !</b><h1>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hritamdutta18&label=Profile%20views&color=0e75b6&style=flat" alt="hritamdutta18"/>
+  <img src="https://komarev.com/ghpvc/?username=hritamdutta18&label=Profile%20Views&color=0e75b6" alt="hritamdutta18"/>
 </p>
   
 ## I'm a Computer Science & Engineering Student at VIT Vellore  
