@@ -42,7 +42,7 @@
 
 <hr>
   
-<h3>🤳 Connect With Me</h3><br>
+  <h3>🤳 Connect With <a href="https://hritam-dutta.me">Me</a></h3><br>
 <p align="center">
   <a href="https://linkedin.com/in/hritam-dutta-6713581b6">
     <img src="https://img.shields.io/badge/-Hritam%20Dutta-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
@@ -61,5 +61,5 @@
 <hr>
 <p>
   <i><b>Credits</b></i> : <a href="https://github.com/hritamdutta18">Hritam Dutta</a><br><br>
-  <i><b>Last Edited on</b></i> : 29/06/2021
+  <i><b>Last Edited on</b></i> : 29/10/2022
 </p>
