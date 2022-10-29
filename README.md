@@ -42,18 +42,18 @@
 
 <hr>
   
-  <h3>🤳 Connect With <a href="https://hritam-dutta.me">Me</a></h3><br>
+  <h3>🤳 Connect With <a href="https://hritam-dutta.me" target="_blank">Me</a></h3><br>
 <p align="center">
-  <a href="https://linkedin.com/in/hritam-dutta-6713581b6">
+  <a href="https://linkedin.com/in/hritam-dutta-6713581b6" target="_blank">
     <img src="https://img.shields.io/badge/-Hritam%20Dutta-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:hritamloyola10@gmail.com">
+  <a href="mailto:hritamloyola10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-hritamloyola10@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/_hritam_dutta_">
+  <a href="https://instagram.com/_hritam_dutta_" target="_blank">
     <img src="https://img.shields.io/badge/-@__hritam__dutta__-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/dutta_h11">
+  <a href="https://twitter.com/dutta_h11" target="_blank">
     <img src="https://img.shields.io/badge/-Hritam%20Dutta-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
   </a>
 </p>
