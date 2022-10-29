@@ -42,7 +42,7 @@
 
 <hr>
   
-  <h3>🤳 Connect With <a href="https://hritam-dutta.me" target="_blank">Me</a></h3><br>
+<h3>🤳 Connect With <a href="https://hritam-dutta.me" target="_blank">Me</a></h3><br>
 <p align="center">
   <a href="https://linkedin.com/in/hritam-dutta-6713581b6" target="_blank">
     <img src="https://img.shields.io/badge/-Hritam%20Dutta-0A66C2?style=flat&logo=Linkedin&logoColor=white"/>
