@@ -3,13 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=hritamdutta18&label=Profile%20Views&color=0e75b6" alt="hritamdutta18"/>
 </p>
   
-## I'm a CSE-IoT Student at VIT Vellore.  
+## I'm a full-stack web dev.  
 
-- 👨‍💻 I’m primarily a Front-End Web Developer.
-- 📚 I’m currently learning everything about Backend technologies 😅
-- 💪🏼 Future Goals: Becoming a Full Stack MERN Developer 😄
 - ⚡ Hobbies: I love playing badminton & FIFA
-- 🤝 I’m looking to collaborate on different Web Dev Projects !
+- 🤝 I’m looking to collaborate on different Web Dev Projects!
 - 😄 Pronouns: He/Him
 
 <hr> 
